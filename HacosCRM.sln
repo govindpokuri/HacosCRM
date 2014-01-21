@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HacosCRM", "HacosCRM\HacosCRM.csproj", "{FCF38B82-6A85-4377-BE21-948E56BD5194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AganithGlobalFrameWork", "..\Aganith Components\AganithGlobalFrameWork\AganithGlobalFrameWork.csproj", "{BAE6F69A-8390-445A-8EF7-BE38E123CF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AganithMembership", "..\Aganith Components\AganithMembership\AganithMembership.csproj", "{A5021DD2-0430-4FED-9540-0665D462FA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF38B82-6A85-4377-BE21-948E56BD5194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF38B82-6A85-4377-BE21-948E56BD5194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF38B82-6A85-4377-BE21-948E56BD5194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF38B82-6A85-4377-BE21-948E56BD5194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE6F69A-8390-445A-8EF7-BE38E123CF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE6F69A-8390-445A-8EF7-BE38E123CF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE6F69A-8390-445A-8EF7-BE38E123CF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE6F69A-8390-445A-8EF7-BE38E123CF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5021DD2-0430-4FED-9540-0665D462FA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5021DD2-0430-4FED-9540-0665D462FA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5021DD2-0430-4FED-9540-0665D462FA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5021DD2-0430-4FED-9540-0665D462FA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
